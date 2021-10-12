@@ -3,5 +3,5 @@ spring:
     name: greeting-service
 management:  endpoints:    web:      exposure:        include:        - '*'
 greeting-service:
-  greeting: "Hello PROD"
+  greeting: "IAEEEEEE PROD"
   default-value: "Mundo"
